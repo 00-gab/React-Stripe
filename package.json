@@ -2,7 +2,7 @@
   "name": "mock-payment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://00-gab.github.io",
+  "homepage": "/",
   "dependencies": {
     "@stripe/stripe-js": "^1.23.0",
     "@testing-library/jest-dom": "^5.16.2",
