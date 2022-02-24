@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-stripe/static/css/main.cb5e8d2e.css",
-    "main.js": "/react-stripe/static/js/main.537447ed.js",
-    "static/media/prod-img.jpg": "/react-stripe/static/media/prod-img.ccdb18f37de9f7e6c9dd.jpg",
-    "index.html": "/react-stripe/index.html",
-    "static/media/credit-card.svg": "/react-stripe/static/media/credit-card.536f706e8ad53472a2b143af87ff5162.svg",
-    "main.cb5e8d2e.css.map": "/react-stripe/static/css/main.cb5e8d2e.css.map",
-    "main.537447ed.js.map": "/react-stripe/static/js/main.537447ed.js.map"
+    "main.css": "/static/css/main.cb5e8d2e.css",
+    "main.js": "/static/js/main.663f0f3a.js",
+    "static/media/prod-img.jpg": "/static/media/prod-img.ccdb18f37de9f7e6c9dd.jpg",
+    "index.html": "/index.html",
+    "static/media/credit-card.svg": "/static/media/credit-card.536f706e8ad53472a2b143af87ff5162.svg",
+    "main.cb5e8d2e.css.map": "/static/css/main.cb5e8d2e.css.map",
+    "main.663f0f3a.js.map": "/static/js/main.663f0f3a.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5e8d2e.css",
-    "static/js/main.537447ed.js"
+    "static/js/main.663f0f3a.js"
   ]
 }
