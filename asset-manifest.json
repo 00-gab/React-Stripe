@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-stripe/static/css/main.cb5e8d2e.css",
-    "main.js": "/react-stripe/static/js/main.44be681d.js",
+    "main.js": "/react-stripe/static/js/main.1e411087.js",
     "static/media/prod-img.jpg": "/react-stripe/static/media/prod-img.ccdb18f37de9f7e6c9dd.jpg",
     "index.html": "/react-stripe/index.html",
     "static/media/credit-card.svg": "/react-stripe/static/media/credit-card.536f706e8ad53472a2b143af87ff5162.svg",
     "main.cb5e8d2e.css.map": "/react-stripe/static/css/main.cb5e8d2e.css.map",
-    "main.44be681d.js.map": "/react-stripe/static/js/main.44be681d.js.map"
+    "main.1e411087.js.map": "/react-stripe/static/js/main.1e411087.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5e8d2e.css",
-    "static/js/main.44be681d.js"
+    "static/js/main.1e411087.js"
   ]
 }
